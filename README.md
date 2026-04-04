@@ -12,6 +12,7 @@ This document outlines the step-by-step process for migrating a Virtual Machine 
 7. [Azure: Create Storage Account & Deploy VM](#step-7-create-storage-account--deploy-vm-on-azure)
 
 ---
+### Step 1 to Step 5 for Enterprise level migration (later have add Replication appliance also)
 
 ### Step 1: Set-up Dummy VM on GCP
 1. Create and set up the dummy VM in GCP.
@@ -111,6 +112,8 @@ Create a new VM in GCP with the following specifications to act as the Discovery
 9. Return to the Azure Migrate portal and check **Explore Inventory** to verify the machine is showing up.
 
 ---
+
+### Step 6 to Step 7: For Manual (Lift and Shift migration).
 
 ### Step 6: Manual Disk Export from GCP
 
