@@ -1,4 +1,4 @@
-# GCP to Azure Migration Guide
+# GCP to Azure Migration using native tools Guide
 
 This document outlines the step-by-step process for migrating a Virtual Machine from Google Cloud Platform (GCP) to Microsoft Azure. The process involves setting up a discovery appliance, performing a manual disk export, and provisioning the migrated VM in Azure.
 
